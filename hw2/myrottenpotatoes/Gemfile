@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'log4r'
 # sunspot, Ruby library for Solr
 gem 'sunspot_rails'
 gem 'sunspot_solr' # optional pre-packaged Solr distribution for use in development
